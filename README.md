@@ -1,1 +1,1 @@
-Placement Cell Webapp named PLACEON
+Placement Cell Webapp named PLACEON using Django framework.
